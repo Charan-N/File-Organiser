@@ -10,7 +10,7 @@ import shutil
 import time
 
 #creating main directory
-main_dir = 'C:/Users/chara/Downloads/'
+main_dir = 'C:/Users/user/Downloads/'
 
 folder_list = ['PDFs', 'Executables', 'Zips', 'Images', 'Misc'] #list of seperate folders
 direc = Path(main_dir)
